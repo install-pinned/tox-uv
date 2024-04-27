@@ -31,9 +31,9 @@ tomli==2.0.1 ; python_version >= "3.8" and python_version < "3.11" \
 tox-uv==1.7.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:0278f38f305ad0515f4d2620c70a848ef4d135a3d9eb778878d1ac8cbdd8528e \
     --hash=sha256:2915128b487ac720e27f8a6dc9597aa6925b62235c6041553055ced710943ea7
-tox==4.14.2 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:0defb44f6dafd911b61788325741cc6b2e12ea71f987ac025ad4d649f1f1a104 \
-    --hash=sha256:2900c4eb7b716af4a928a7fdc2ed248ad6575294ed7cfae2ea41203937422847
+tox==4.15.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:300055f335d855b2ab1b12c5802de7f62a36d4fd53f30bd2835f6a201dda46ea \
+    --hash=sha256:7a0beeef166fbe566f54f795b4906c31b428eddafc0102ac00d20998dd1933f6
 uv==0.1.38 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:03242a734a572733f2b9a5dbb94517e918fe26fc01114b7c51d12296dfbb8f8b \
     --hash=sha256:067af2d986329db4fa3c7373017d49f0e16ddff23e483b7e5bc3a5a18ce08ea6 \
