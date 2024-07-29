@@ -31,12 +31,15 @@ pyproject-api==1.7.1 ; python_version >= "3.8" and python_version < "4.0" \
 tomli==2.0.1 ; python_version >= "3.8" and python_version < "3.11" \
     --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
     --hash=sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f
-tox-uv==1.10.0 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:2d9cec5bde2cdde2adae58116475bc9b57752a15b12879cd76a20c4428c0777a \
-    --hash=sha256:48a6741a7d02c0b682168665ce9e448abecc60bdb06442816169906a4d50275c
+tox-uv==1.11.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:00c6193af6b4ae567a21a98eb7540673e1a8709902e0266c3c9a627758250215 \
+    --hash=sha256:22c9d36fdc65f8a2a4001174aa02017bb82dde9ef88a243a4a2f4241c9fe1e78
 tox==4.16.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:43499656f9949edb681c0f907f86fbfee98677af9919d8b11ae5ad77cb800748 \
     --hash=sha256:61e101061b977b46cf00093d4319438055290ad0009f84497a07bf2d2d7a06d0
+typing-extensions==4.12.2 ; python_version >= "3.8" and python_version < "3.10" \
+    --hash=sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d \
+    --hash=sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8
 uv==0.2.30 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:0197a9e52089630963e3ba9c8cac402f5aacf40bdab204ab3b738b335bf42141 \
     --hash=sha256:40fda50ae5fc7d8288d9e3aac541c2f5e1b8da8e3d6e8e19c670e2be8584ea86 \
