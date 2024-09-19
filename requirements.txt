@@ -25,18 +25,18 @@ platformdirs==4.3.6 ; python_version >= "3.8" and python_version < "4.0" \
 pluggy==1.5.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:2cffa88e94fdc978c4c574f15f9e59b7f4201d439195c3715ca9e2486f1d0cf1 \
     --hash=sha256:44e1ad92c8ca002de6377e165f3e0f1be63266ab4d554740532335b9d75ea669
-pyproject-api==1.7.2 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:17c025105f8d27e22ffe542fe7dff3391b3736191a28294773a1f3b9ed25282b \
-    --hash=sha256:dc5b0e0f6e291a4f22b46e182c9c6d4915c62b1f089b8de1b73f2d06ae453593
+pyproject-api==1.8.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:3d7d347a047afe796fd5d1885b1e391ba29be7169bd2f102fcd378f04273d228 \
+    --hash=sha256:77b8049f2feb5d33eefcc21b57f1e279636277a8ac8ad6b5871037b243778496
 tomli==2.0.1 ; python_version >= "3.8" and python_version < "3.11" \
     --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
     --hash=sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f
-tox-uv==1.11.4 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:10a6025d751108f17d8912bf177f1804ab7f9973ab39df6e599c47f7dc849c59 \
-    --hash=sha256:e4150968466c719aa1f61f0b37b82fa43dd61f17f2c6f9ac0877572885cc6275
-tox==4.19.0 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:66177d887f9d7ef8eaa9b58b187f7b865fa4c58650086c01336e82c9831e1867 \
-    --hash=sha256:6e20a520db7710f6980b8ec96bde189d6b8cf41b327ec703b03e1a2a447b1aaf
+tox-uv==1.12.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:8917fd95675cabe03957f79eb1698fa244514d6580d640524c2aa08f736b31f7 \
+    --hash=sha256:96562ed1b227b6996d18b034564ded13f460787c79b2dddf65dd880c3a8287ad
+tox==4.20.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:21a8005e3d3fe5658a8e36b8ca3ed13a4230429063c5cc2a2fdac6ee5aa0de34 \
+    --hash=sha256:5b78a49b6eaaeab3ae4186415e7c97d524f762ae967c63562687c3e5f0ec23d5
 typing-extensions==4.12.2 ; python_version >= "3.8" and python_version < "3.10" \
     --hash=sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d \
     --hash=sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8
