@@ -59,9 +59,9 @@ uv==0.4.16 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:c92a1a2bf541a3f65b5b2502ca51f8709e8ac8bb85846c87c65d343e66ede622 \
     --hash=sha256:d1712f1c0df309f7682d7e40783ab55927cc1e7108e43847b2a0b795ea855c45 \
     --hash=sha256:d501b14f491057c102e2f6be92e5a1da973453b893fd727a552908fe8a8a1061
-virtualenv==20.26.5 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:4f3ac17b81fba3ce3bd6f4ead2749a72da5929c01774948e243db9ba41df4ff6 \
-    --hash=sha256:ce489cac131aa58f4b25e321d6d186171f78e6cb13fafbf32a840cee67733ff4
+virtualenv==20.26.6 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:280aede09a2a5c317e409a00102e7077c6432c5a38f0ef938e643805a7ad2c48 \
+    --hash=sha256:7345cc5b25405607a624d8418154577459c3e0277f5466dd79c49d5e492995f2
 zipp==3.20.2 ; python_version >= "3.8" and python_version < "3.9" \
     --hash=sha256:a817ac80d6cf4b23bf7f2828b7cabf326f15a001bea8b1f9b49631780ba28350 \
     --hash=sha256:bc9eb26f4506fda01b81bcde0ca78103b6e62f991b381fec825435c836edbc29
