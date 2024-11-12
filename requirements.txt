@@ -25,9 +25,9 @@ pluggy==1.5.0 ; python_version >= "3.9" and python_version < "4.0" \
 pyproject-api==1.8.0 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:3d7d347a047afe796fd5d1885b1e391ba29be7169bd2f102fcd378f04273d228 \
     --hash=sha256:77b8049f2feb5d33eefcc21b57f1e279636277a8ac8ad6b5871037b243778496
-tomli==2.0.2 ; python_version >= "3.9" and python_version < "3.11" \
-    --hash=sha256:2ebe24485c53d303f690b0ec092806a085f07af5a5aa1464f3931eec36caaa38 \
-    --hash=sha256:d46d457a85337051c36524bc5349dd91b1877838e2979ac5ced3e710ed8a60ed
+tomli==2.1.0 ; python_version >= "3.9" and python_version < "3.11" \
+    --hash=sha256:3f646cae2aec94e17d04973e4249548320197cfabdf130015d023de4b74d8ab8 \
+    --hash=sha256:a5c57c3d1c56f5ccdf89f6523458f60ef716e210fc47c4cfb188c5ba473e0391
 tox-uv==1.16.0 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:71b2e2fa6c35c1360b91a302df1d65b3e5a1f656b321c5ebf7b84545804c9f01 \
     --hash=sha256:e6f0b525a687e745ab878d07cbf5c7e85d582028d4a7c8935f95e84350651432
