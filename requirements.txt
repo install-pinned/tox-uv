@@ -113,9 +113,9 @@ uv==0.11.14 \
 virtualenv==20.35.4 ; python_full_version >= '3.10' \
     --hash=sha256:643d3914d73d3eeb0c552cbb12d7e82adf0e504dbf86a3182f8771a153a1971c \
     --hash=sha256:c21c9cede36c9753eeade68ba7d523529f228a403463376cf821eaae2b650f1b
-virtualenv==21.3.2 ; python_full_version < '3.10' \
-    --hash=sha256:3ecda97894a6fc1c53106356f488690e5c86278c1f693f3fc0805ac85a513686 \
-    --hash=sha256:c58ea748fa50bb2a4367da5ba3d30b02458ed40b4ea888faad94021f3309f764
+virtualenv==21.3.3 ; python_full_version < '3.10' \
+    --hash=sha256:7d5987d8369e098e41406efb780a3d4ca79280097293899e351a6407ee153ab3 \
+    --hash=sha256:f5bda277e553b1c2b3c1a8debfc30496e1288cc93ce6b7b71b3280047e317328
 zipp==3.20.2 ; python_full_version < '3.9' \
     --hash=sha256:a817ac80d6cf4b23bf7f2828b7cabf326f15a001bea8b1f9b49631780ba28350 \
     --hash=sha256:bc9eb26f4506fda01b81bcde0ca78103b6e62f991b381fec825435c836edbc29
